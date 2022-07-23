@@ -1,3 +1,3 @@
 # creating_a_blockchain
 
-![Screenshot]([dsfgsdfgdsfg](https://github.com/KCorstor/creating_a_blockchain/blob/main/Screen%20Shot%202022-07-23%20at%204.23.02%20PM.png))
+![Screenshot]([dsfgsdfgdsfg]('https://github.com/KCorstor/creating_a_blockchain/blob/main/Screen%20Shot%202022-07-23%20at%204.23.02%20PM.png'))
